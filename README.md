@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi, I'm Nathan 👋
+
+I'm a Ph.D. candidate in the University of Wisconsin-Madison Department of Statistics. My research focuses scalable phylogenetic network inference. You can find my research code in my repos along with old course projects, code written at various jobs, and a few passion projects.
+
+### Please get in touch if...
+
+- you want to discuss research topics, collaborations, etc.
+- you want to hire me for a research, statistics, or software development opporunity
+- you just want to chat
 
 <!--
 **NathanKolbow/NathanKolbow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
